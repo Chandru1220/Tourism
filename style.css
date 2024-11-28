@@ -1,0 +1,144 @@
+
+.image{
+    display: flex;
+    background-color: rgb(225, 227, 228);align-items: center;
+}
+
+.one{
+    width: 500px;
+    height: 20px;
+    margin: 10px;
+    border: rgb(221, 221, 228);
+    text-align: center;
+    position: relative;
+    left: 450px;
+    
+}
+
+.back{
+    background-image: url(./nature-3082832_1280.jpg);
+    width: 1519px;
+    height: 700px;
+}
+
+.Container{
+    display: flex;
+    padding-left: 200px;
+    padding-top: 50px;
+}    
+
+ul{
+    display: flex;
+    list-style: none;
+}
+
+li{
+    padding: 15px;
+    position: relative;
+    left: 450px;
+    bottom: 10px;
+    color: white;
+}
+
+.addlist{
+    background: none;
+    border: 1px white solid;
+    border-radius: 100px;
+    color: white;
+    padding: 10px;
+    position: relative;
+    bottom: 10px;
+}
+
+.explore{
+    color: white;
+    font-weight:bolder;
+    font-size: 60px;
+    position: relative;
+    left: 200px; 
+}
+
+.city{
+    font-size: 60px;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    position: relative;
+    left: 200px; 
+}
+
+.find{
+    font-family: "Poppins", sans-serif;
+    font-size: 20px;
+    color: white;
+    position: relative;
+    left: 200px;
+    opacity: 80%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.input{
+    width: 350px;
+    height: 75px;
+    position: relative;
+    left: 200px;
+    border: 2px solid white;
+    margin: 0%;
+    padding: 0%;
+}
+
+.two{
+    background-color: rgb(234, 69, 69);
+    width: 150px;
+    height: 75px;
+    position: relative;
+    left: 196px;
+    border: 1px solid rgb(243, 69, 69);
+    color: white;
+}
+
+.icon{
+    height: 50px;
+    background-color: white;
+    color: rgb(53, 52, 52);
+    margin-left: 10px;
+    position: relative;
+    left: 190px;
+    font-family: "Poppins", sans-serif;
+    border: 1px solid white;
+    padding: 15px;
+}
+
+.icon:hover{
+    background-color: rgb(240, 85, 85);
+    color: white;
+}
+
+.box:hover,.addlist:hover{
+    background-color: rgb(240, 85, 85);
+    color: white;
+    
+}
+
+.box{
+    height: 315px;
+    width: 255px;
+    background-color: rgb(255, 255, 255);
+    padding: 25px;
+    text-align: center;
+    margin-left: 50px;
+    padding-bottom: 0px;
+    
+}
+
+.last{
+    display: flex;
+    justify-content: center;
+    margin-top: 75px;
+}
+.fi{
+    color: rgb(84, 83, 83);
+    padding: 5px;
+}
+
